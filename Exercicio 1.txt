@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apresentação de Textos e Agenda de Jogos</title>
+</head>
+<body>
+
+    <!-- Títulos de diferentes níveis -->
+    <h1>Título de Nível 1</h1>
+    <h2>Título de Nível 2</h2>
+    <h3>Título de Nível 3</h3>
+    <h4>Título de Nível 4</h4>
+    <h5>Título de Nível 5</h5>
+    <h6>Título de Nível 6</h6>
+
+    <!-- Linha horizontal -->
+    <hr>
+
+    <!-- Parágrafos -->
+    <p>Este é o primeiro parágrafo do texto. Ele contém algumas informações importantes.</p>
+    <p>Este é o segundo parágrafo. Ele complementa as informações do primeiro.</p>
+
+    <!-- Lista ordenada com agenda de jogos -->
+    <h2>Agenda de Jogos</h2>
+    <ol>
+        <li>Time A vs Time B - 15/02/2025</li>
+        <li>Time C vs Time A - 20/02/2025</li>
+        <li>Time A vs Time D - 25/02/2025</li>
+    </ol>
+
+</body>
+</html>
